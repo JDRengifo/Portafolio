@@ -1,4 +1,17 @@
+import "./inicio.css";
+import josedario from "../../../src/component/Utils/josedario.png";
 function Inicio() {
-  return <h1>Portafolio</h1>;
+  return (
+    <div className="contInicio">
+      <h1 className="inicio">Portafolio</h1>
+      <div className="contfoto">
+        <img src={josedario} alt="banderas" className="foto" />
+      </div>
+      <div className="subtitulo">
+        <h2 className="segnombre">JOSÉ DARIO RENGIFO FRANCO</h2>
+        <h3 className="profesion">Profesor de Matemáticas - Full Stack</h3>
+      </div>
+    </div>
+  );
 }
 export default Inicio;

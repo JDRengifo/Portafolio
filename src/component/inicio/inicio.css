@@ -1,0 +1,35 @@
+.inicio {
+  font-size: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.foto {
+  border-radius: 90px;
+  height: 35vh;
+  margin-top: 50px;
+}
+
+.contfoto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.subtitulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.segnombre {
+  font-size: 3em;
+}
+
+.profesion {
+  font-size: 1.5em;
+}

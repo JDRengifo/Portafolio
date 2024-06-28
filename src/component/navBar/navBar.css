@@ -1,6 +1,16 @@
 .barra {
   display: flex;
   width: 100vw;
-  padding: 10px;
-  justify-content: right;
+  padding: 15px;
+  justify-content: space-between;
+}
+
+.boton {
+  margin-left: 10px;
+  background-color: rgb(146, 146, 146);
+  padding: 5px;
+  border-radius: 10px;
+}
+.nombre {
+  font-size: 2em;
 }

@@ -1,6 +1,9 @@
 import { useEffect, useState } from "react";
 import NavBar from "./component/navBar/NavBar";
 import Inicio from "./component/inicio/Inicio";
+import SobreMi from "./component/sobreMi/SobreMi";
+import Contacto from "./component/contacto/Contacto";
+import "./App.css";
 
 function App() {
   const [tema, setTema] = useState(() => {
@@ -29,11 +32,15 @@ function App() {
         {/* <div className="bg-slate-200 px-4 py-2 rounded hover:bg-slate-300 dark:bg-slate-950 dark:text-white dark:hover:bg-slate-900"> */}
         <div className="dark:text-white">
           <NavBar handleCambioTema={handleCambioTema} />
-          <div>
-            <Inicio />
-          </div>
+
+          <Inicio />
         </div>
       </div>
+      <div className="cont2sobremi">
+        <SobreMi />
+      </div>
+
+      <Contacto />
     </div>
   );
 }

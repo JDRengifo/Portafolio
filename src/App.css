@@ -1,0 +1,8 @@
+.cont2sobremi {
+  /* background-color: blue; */
+  width: 100vw;
+  height: 80dvh;
+  background-image: url("../src/component/Utils/informatica.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

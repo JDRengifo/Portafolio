@@ -1,0 +1,19 @@
+.contsobremi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-left: 10vw;
+  padding-top: 5vw;
+  padding-right: 10vw;
+  padding-bottom: 10vw;
+}
+
+.sobremi {
+  font-size: 3em;
+  margin-bottom: 25px;
+}
+
+.parrafosobremi {
+  font-size: 1.5em;
+}
