@@ -1,0 +1,33 @@
+.princcurri {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.contcurriculum {
+  padding-top: 40px;
+  display: flex;
+  justify-content: space-around;
+  width: 100vw;
+  height: 100vh;
+  /* background-color: aquamarine; */
+}
+.cvizquierda {
+  width: 40vw;
+  height: 70vh;
+}
+.cvderecha {
+  width: 40vw;
+  height: 70vh;
+}
+
+.curriculum {
+  font-size: 3em;
+}
+.educa1 {
+  font-size: 2em;
+}
+
+.educa2 {
+  font-size: 2em;
+}

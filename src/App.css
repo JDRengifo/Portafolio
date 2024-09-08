@@ -1,8 +1,22 @@
 .cont2sobremi {
-  /* background-color: blue; */
+  display: flex;
+  justify-content: center;
   width: 100vw;
-  height: 80dvh;
-  background-image: url("../src/component/Utils/informatica.png");
+  height: 500%;
+  /* background-color: rgba(56, 55, 54, 0.8); */
+  background-size: cover;
+  flex-direction: column;
+  padding-left: 10vw;
+  padding-top: 5vw;
+  padding-right: 10vw;
+  padding-bottom: 10vw;
+  /* color: aliceblue; */
+  /* background-image: url("../src/component/Utils/informatica.png");
   background-repeat: no-repeat;
   background-size: cover;
+  color: aliceblue; */
+}
+
+.dark:text-white {
+  height: 500%;
 }

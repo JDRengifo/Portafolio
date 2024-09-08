@@ -5,7 +5,7 @@
   align-items: center;
 }
 .foto {
-  border-radius: 90px;
+  /* border-radius: 90px; */
   height: 35vh;
   margin-top: 50px;
 }
@@ -14,7 +14,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 10px;
+  border-radius: 30px;
 }
 
 .subtitulo {
