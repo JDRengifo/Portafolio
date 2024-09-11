@@ -52,6 +52,9 @@ function Curriculum() {
           </a>
         </div>
       </div>
+      <div>
+        <h2 className="educa2">Tecnologias</h2>
+      </div>
     </div>
   );
 }
