@@ -24,8 +24,8 @@ function Curriculum() {
 
           <br />
           <p>
-            .- Teacher Asistent. (TA): Acompañamiento de nuevos alumnos.
-            Seguimiento de codigo, control de quejas.
+            .- Teacher Asistent. (TA): Trabajo Acompañamiento de nuevos alumnos.
+            como asistente de educación.
           </p>
           <br />
 
