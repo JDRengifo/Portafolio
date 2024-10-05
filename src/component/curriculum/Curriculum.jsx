@@ -21,6 +21,14 @@ function Curriculum() {
         </div>
         <div className="cvderecha">
           <h2 className="educa2">.- Laboral</h2>
+
+          <br />
+          <p>
+            .- Teacher Asistent. (TA): Acompañamiento de nuevos alumnos.
+            Seguimiento de codigo, control de quejas.
+          </p>
+          <br />
+
           <br />
           <p>.- Full Stack Web Developer. Lachoco-Latera, Bogotá Colombía.</p>
           <p>Diseño y producción de página Web, (Trabajo Independiente)</p>
