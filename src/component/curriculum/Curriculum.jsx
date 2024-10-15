@@ -58,6 +58,7 @@ function Curriculum() {
           >
             Ver mi CV
           </a>
+          <h2>Contacto</h2>
         </div>
       </div>
       <div>
